@@ -1,2 +1,2 @@
-# go-spring-alibaba
-采用 https://github.com/go-spring/go-spring ，对接springcloud alibaba生态
+# go-spring-side
+采用 https://github.com/go-spring/go-spring为内核 ，发展周边功能，方便大家使用
